@@ -1,5 +1,0 @@
-pyjwt
-flask
-gunicorn
-pytest
-psycopg2-binary
